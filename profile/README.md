@@ -1,12 +1,12 @@
-## Hi there 👋
+# Network-Build
+## Introduction
 
-<!--
+Network-Build is a team that brings websites to life. We build and launch websites that remain online for a specific period before being offered for sale.
 
-**Here are some ideas to get you started:**
+# Mission
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our mission is to create useful websites, turn ideas into reality, and provide opportunities for others to own and grow digital projects.
+
+# Contact
+
+WhatsApp: +267 761 60840
